@@ -1,6 +1,7 @@
 
-<div align="center" style="padding: 5px;">
-  <h1>VS Code set-up for C/C++</h1>
+<div align="center">
+  <h1>VS Code Setup for C/C++</h1>
+</div>
   
 ---
 
