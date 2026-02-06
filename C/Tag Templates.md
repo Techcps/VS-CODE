@@ -1,7 +1,7 @@
 
 
 <div align="center" style="padding: 5px;">
-  <h3>VS Code set-up for C/C++</h3>
+  <h1>VS Code set-up for C/C++</h1>
   
   <a href="https://youtu.be/tpkAAO-m1Gw">
     <img src="https://img.shields.io/badge/Watch_Here-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Here">
