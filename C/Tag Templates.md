@@ -5,23 +5,13 @@
   
 ---
 
-# C/C++ Setup Guide (MSYS2 + VS Code)
-
----
-
 ## 🔧 Install GCC Toolchain (MSYS2 UCRT64)
 
-### 1️⃣ Open the Compiler Terminal
+###  Open the Compiler Terminal
 
-Open the **MSYS2 UCRT64** terminal (compiler environment).
+- Open the **MSYS2 UCRT64** terminal (compiler environment).
 
-> ⚠ Make sure you open **UCRT64**, not MSYS or MINGW64.
-
----
-
-### 2️⃣ Install the Required Toolchain
-
-Run the following command:
+- Run the following command:
 
 ```
 pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
