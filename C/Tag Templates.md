@@ -73,15 +73,35 @@ g++ --version
     "prefix": "ctag",
     "body": [
       "#include <stdio.h>",
+      "#include <stdlib.h>",
       "",
-      "int main() {",
-      "    printf(\"Hello World\\n\");",
+      "/* Function declarations (if any) */",
+      "void exampleFunction();",
+      "",
+      "int main()",
+      "{",
+      "    // Variable declarations",
+      "    int num = 0;",
+      "",
+      "    // Program logic starts here",
+      "    printf(\"Hello, World!\\n\");",
+      "",
+      "    // Calling function (if needed)",
+      "    exampleFunction();",
+      "",
       "    return 0;",
+      "}",
+      "",
+      "/* Function definitions */",
+      "void exampleFunction()",
+      "{",
+      "    printf(\"This is a function.\\n\");",
       "}"
     ],
-    "description": "Basic C program template"
+    "description": "This basic C language code template by TechCPS"
   }
 }
+
 ```
 
 Save the file.
